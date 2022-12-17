@@ -1,0 +1,85 @@
+.GrandParent{
+    background-color:rgba(242,236,230,255);
+    
+   
+    
+}
+.container1{
+    border-bottom: 1px solid;
+}
+
+.btn{
+   margin-left: auto;
+   
+}
+.img-one{
+   
+    background-color: rgb(0, 0, 0, 0.3);
+    width: auto;
+    height: auto;
+    
+
+   
+}
+.padding-one{
+    padding-left: 80px;
+}
+.testing{
+    margin-top: 55px;
+}
+.hr2{
+    
+   
+}
+.hr3{
+   
+}
+.style3{
+    background-color: rgba(242,242,240,255); 
+}
+.design{
+    width: 250px;
+    height: 500px;
+    
+   
+    background-color:rgba(142,89,58,255);
+}
+.design2{
+    width: 250px;
+    height: 500px;
+   
+     background-color: rgba(192,174,160,255);
+}
+.design3{
+    width: 250px;
+    height: 500px;
+   
+     background-color: rgba(162,120,104,255);
+
+}
+.style4{
+    background-image: url(s.png) ;
+    max-width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.innerstyle{
+    background-color: rgba(61,48,41,255);
+    opacity: 0.8;
+    width: 200px;
+    height: 500px; 
+    padding: 30px ;
+    
+    
+}
+.hr4{
+  border-bottom: 2px solid black;
+  position: relative;
+  bottom: 50px;
+}
+
+.bigp{ transform: translateY(-25);
+    margin-left:-4px;
+    ;}
